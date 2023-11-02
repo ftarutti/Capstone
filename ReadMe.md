@@ -36,10 +36,6 @@ The project structure is organized as follows:
 
 Thanks to Arvato and Udacity for providing access to their dataset and the opportunity to collaborate on this project. This collaboration has been instrumental in my technical exploration of customer acquisition optimization.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-Feel free to explore the code, datasets, and analyses. If you have any questions or would like to contribute, please don't hesitate to reach out.
+Feel free to explore the code and analyses. If you have any questions or would like to contribute, please don't hesitate to reach out.
 
 Happy exploring and learning!
