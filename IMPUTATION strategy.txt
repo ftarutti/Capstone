@@ -1,0 +1,30 @@
+HH_EINKOMMEN_SCORE      2968 -1 + map 0
+CJT_GESAMTTYP           3213 -1 + map 0
+ONLINE_AFFINITAET       3213 -1
+GFK_URLAUBERTYP         3213 -1 
+RETOURTYP_BK_S          3213 -1 + map 0
+TITEL_KZ               46596 -1 + map 0
+ANZ_PERSONEN           46596 impute
+ANZ_TITEL              46596 impute
+WOHNDAUER_2008         46596  -1 + map 0
+ALTER_HH               46596 -1 + map 0
+KONSUMNAEHE            46651 -1
+GEBAEUDETYP            49927  -1 + map 0
+GEBAEUDETYP_RASTER     49927 -1
+WOHNLAGE               49927 -1
+ANZ_HAUSHALTE_AKTIV    49927 impute
+MIN_GEBAEUDEJAHR       49927 impute
+OST_WEST_KZ            49927 -1
+BALLRAUM               49959 -1
+EWDICHTE               49959 -1
+INNENSTADT             49959 -1
+CAMEO_DEU_2015         50428 -1
+CAMEO_DEUG_2015        50428 -1
+ARBEIT                 50476 impute ?
+RELAT_AB               50476 -1 + map 9
+ORTSGR_KLS9            50476 -1
+ANZ_HH_TITEL           52110 impute
+W_KEIT_KIND_HH         53742 -1 + map 0
+KKK                    54260 -1 + map 0
+REGIOTYP               54260 -1 + map 0
+MOBI_REGIO             55980 -1
