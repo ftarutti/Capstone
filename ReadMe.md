@@ -4,6 +4,8 @@
 
 This project is a data-driven exploration of customer acquisition optimization, conducted in collaboration with Arvato, a global services company. The primary objective was to refine the customer acquisition strategies of a mail-order company by leveraging rich demographic data. We utilized advanced data science techniques, including unsupervised and supervised learning, to uncover insights and develop predictive models.
 
+Blog post: https://medium.com/@franziska.taruttis/mastering-customer-acquisition-unveiling-insights-from-arvatos-data-odyssey-acf148b5eb6b
+
 ## Project Highlights
 
 - **Data Exploration:** We delved into Arvato's extensive dataset, which encompassed demographic information for individuals.
